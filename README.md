@@ -37,7 +37,7 @@
 
   <br/>
   
- ### I currently study
+ ### 📖 I currently study
   
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
    
