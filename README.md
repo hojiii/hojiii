@@ -8,7 +8,7 @@
   <div display="flex">
   
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojiii&hide=contribs,prs&count_private=true&show_icons=true&show_icons=true&theme=cobalt)](https://github.com/hojiii/github-readme-stats)
+  [![Jiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojiii&hide=contribs,prs&count_private=true&show_icons=true&show_icons=true&theme=cobalt)](https://github.com/hojiii/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojiii&layout=compact)](https://github.com/hojiii/github-readme-stats)
 </div>
 
